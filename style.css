@@ -4,6 +4,7 @@ body {
 
 body h1, h2, p, nav, img {
     text-align: center;
+    color: white;
 }
 
 .navigation a {
