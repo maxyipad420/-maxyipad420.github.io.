@@ -29,5 +29,6 @@ img {
 }
 
 .mList {
-        list-style: none;   
+        list-style: none;  
+    color: white;
 }
